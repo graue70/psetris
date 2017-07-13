@@ -1,0 +1,20 @@
+Neues Hochladen:
+ 
+ git add .
+ git commit -m 'Message'
+ git push
+
+
+Änderungen von anderen runterladen:
+ 
+ git fetch
+ git merge
+oder:
+ git pull
+
+
+Löschen von Dateien:
+
+ git rm Dateiname
+ git commit -m 'Message'
+ git push
